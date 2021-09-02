@@ -1,0 +1,11 @@
+This is a login credentials generator.
+
+User input required:
+1.	First Name
+2.	Last Name
+
+Output:
+1.	Program will generate a username using first character of User’s first name and complete last name.
+2.	Second part of this program is a random password generator. It will create a password for user which will contain lower-case and upper-case alphabets, numbers and symbols.
+
+
